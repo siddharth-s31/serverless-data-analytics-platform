@@ -1,0 +1,14 @@
+{
+  "name": "azure-analytics-api",
+  "version": "1.0.0",
+  "description": "Backend API for Amazon Sales Dashboard",
+  "main": "src/**/*.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.11.2",
+    "csv-parser": "^3.2.0"
+  }
+}

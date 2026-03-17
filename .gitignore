@@ -1,0 +1,29 @@
+# Dependencies
+**/node_modules/
+
+# Build output
+**/dist/
+**/build/
+
+# Environment & secrets
+**/.env
+**/.env.local
+**/.env.production
+**/local.settings.json
+
+# Azure Functions
+**/bin/
+**/obj/
+
+# Vite
+**/*.local
+
+# Logs
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
